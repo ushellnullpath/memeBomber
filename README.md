@@ -2,9 +2,15 @@ Been into memes lately, must be because I've been unemployed for quite a while n
 
 The UI
 
+![298813098-f3d224ab-542c-468e-bbac-71eecb4ba030](https://github.com/ushellnullpath/memeBomber/assets/104400332/618db103-5d32-4987-a060-025a9a4a2c07)
+
 The UI when initialized; an "explode" label signifies the number of instances of the "bombing" that have occurred, alongside a timer tracking when the next "bombing" is scheduled.
 
+![298813119-70aefed5-c6bc-4227-adac-1550894276ab](https://github.com/ushellnullpath/memeBomber/assets/104400332/84250326-fcaf-496e-8027-f022c5edde97)
+
 The program simultaneously creates, stores, and deletes the downloaded image file and post information in a JSON format within the "memes" folder.
+
+![298813140-86882bbd-90a6-43cf-b4f4-d5dcc1836036](https://github.com/ushellnullpath/memeBomber/assets/104400332/5afa0b60-8b5f-484b-bfef-b066aaadf248)
 
 Features
 
