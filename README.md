@@ -20,7 +20,13 @@ Features
     - Error Handling and Status: Users can receive error-handled and status print messages
       in their command line interface when running the program for hours.
 
-- LAST UPDATED (D/M/Y): 23/01/2024
+HOW TO USE
+
+    - In the main.py file; set "self.client_id" and "self.client_secret" (line 27 and 28) to your own Reddit client ID and client secret, which you must create directly on Reddit.
+    - In the main.py file; set "self.email_from" and "self.email_password" (line 33 and 34) to the email address and its password, as that account will be used to send the memes.
+    - Note: It is better to create a separate '.env' file to store this information. If you do, please set the variable names as REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, EMAIL_ADDRESS, and EMAIL_PASSWORD.
+
+- LAST UPDATED (D/M/Y): 15/06/2024
 
 Libraries Used:
 
